@@ -6,4 +6,24 @@ I am a software developer working at Evolution Gaming in the Video Operations de
 
 # Projects
 
-WIP
+## SpaceX ISS Docking simulator autopilot
+
+https://github.com/DaniruKun/spacex-iss-docking-sim-autopilot
+
+## OpenCV Telegram bot
+
+https://github.com/DaniruKun/opencv-bot
+
+# Links
+
+## Website
+
+www.danpetrov.xyz
+
+## Medium
+
+https://medium.com/@thedanpetrov
+
+## Twitter
+
+https://twitter.com/DaniruKun
