@@ -18,7 +18,7 @@ https://github.com/DaniruKun/opencv-bot
 
 ## Website
 
-[danpetrov.xyz](danpetrov.xyz)
+[danpetrov.xyz](https://danpetrov.xyz)
 
 ## Medium
 
