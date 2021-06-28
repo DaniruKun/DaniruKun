@@ -2,7 +2,7 @@
 
 # whoami
 
-I am a software developer working at Evolution Gaming in the Video Operations department. Mostly I do backend work in Erlang, Elixir and Python. In my free time I like to work on projects in Clojure and Elixir. Enjoy learning about latest developments in DevOps in my free time.
+I am a software developer with a focus on DevOps and backend development. Mostly I do work in Erlang, Elixir and Python. In my free time I like to work on projects in Clojure and Elixir.
 
 # Projects
 
