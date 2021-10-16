@@ -2,20 +2,19 @@
 
 # whoami
 
-I am a software developer focused on backend development. Mostly I do work in Elixir and Ruby. In my free time I like to work on projects in Clojure, Lisp and exploring design of functional programming languages. I have experience working with automated testing, computer vision, media processing, web development, as well as serverless and cloud services like Heroku and AWS.
-# Projects
+I am a software developer focused on backend development.
+In my day job I mostly work with Ruby and Elixir, and lisps in my free time.
+Love exploring design of programming languages. I have experience working with automated testing, computer vision, media processing, web development, as well as serverless and cloud services like Heroku and AWS.
 
-## SpaceX ISS Docking simulator autopilot
+# Projects 💻
 
-https://github.com/DaniruKun/spacex-iss-docking-sim-autopilot
+|:computer: **Technology**|:rocket: **Projects**              |
+|-----------------|-----------------------------|
+|![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=flat&logo=elixir&logoColor=white)|[![Holobot-ex](https://img.shields.io/static/v1?label=Holobot-ex&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/DaniruKun/holobot-ex) 
+|![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=flat&logo=Clojure&logoColor=Clojure)|[![spacex-iss-docking-sim-autopilot](https://img.shields.io/static/v1?label=spacex-iss-docking-sim-autopilot&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/DaniruKun/spacex-iss-docking-sim-autopilot) 
+|![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)|[![opencv-bot](https://img.shields.io/static/v1?label=opencv-bot&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/DaniruKun/opencv-bot) 
 
-## Hololive Telegram Bot
-
-https://github.com/DaniruKun/holobot-tg
-
-## OpenCV Telegram bot
-
-https://github.com/DaniruKun/opencv-bot
+<!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 # Links
 
