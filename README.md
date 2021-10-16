@@ -29,3 +29,6 @@ https://medium.com/@thedanpetrov
 ## Twitter
 
 https://twitter.com/DaniruKun
+
+![](https://komarev.com/ghpvc/?username=danirukun)
+
