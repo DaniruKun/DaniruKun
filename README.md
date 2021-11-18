@@ -12,6 +12,7 @@ Love exploring design of programming languages. I have experience working with a
 |![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=flat&logo=Clojure&logoColor=Clojure)|[![spacex-iss-docking-sim-autopilot](https://img.shields.io/static/v1?label=spacex-iss-docking-sim-autopilot&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/DaniruKun/spacex-iss-docking-sim-autopilot) 
 |![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)|[![opencv-bot](https://img.shields.io/static/v1?label=opencv-bot&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/DaniruKun/opencv-bot) 
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white)|[![hololive-xbar-plugin](https://img.shields.io/static/v1?label=hololive-xbar-plugin&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/DaniruKun/hololive-xbar-plugin)
+![Emacs Lisp](https://img.shields.io/badge/Emacs-%7F5AB6.svg?style=flat&logo=gnuemacs&logoColor=white&labelColor=7F5AB6&color=7F5AB6)|[![ancient-one-dark-emacs](https://img.shields.io/static/v1?label=ancient-one-dark-emacs&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/holodata/ancient-one-dark-emacs) [![dilbert-el](https://img.shields.io/static/v1?label=dilbert-el&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/DaniruKun/dilbert-el)
 
 # Links
 
